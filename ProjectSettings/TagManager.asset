@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Coin
   - diamond
+  - BulletBox
+  - AmmoBox
   layers:
   - Default
   - TransparentFX
